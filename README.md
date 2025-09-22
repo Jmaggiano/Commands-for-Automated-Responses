@@ -10,3 +10,4 @@ A list of commands for automated responses via texting my number.
 
 **Work schedule for the next 14 days:** "when do you work"
 
+**If you are trying to get to my other links:** https://jmaggiano.github.io/Commands-for-Automated-Responses
