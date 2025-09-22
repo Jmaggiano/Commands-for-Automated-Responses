@@ -1,4 +1,4 @@
-# A list of commands for automated responses via texting my number. 
+A list of commands for automated responses via texting my number. 
 
 ### Please note: You are only using whatever is under quotation marks.
 
